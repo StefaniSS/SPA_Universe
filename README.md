@@ -76,9 +76,9 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 ## 📞 Contato
 
-Para dúvidas ou sugestões, entre em contato com [seu-email@dominio.com](stefanigsilva@outlook.com).
+Para dúvidas ou sugestões, entre em contato com [stefanigsilva@outlook.com](stefanigsilva@outlook.com).
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario).
+Feito com ❤️ por [Stefani Silva]([https://github.com/StefaniSS]).
 ```
